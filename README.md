@@ -4,3 +4,5 @@
     # 2. simple comment using script file named "02_comments.sh"
     
     # 3. demo variable learning file named "03_vardemo.sh"
+    
+    # 4. constant variable file added. Constant variable is once we defined a variable and set it's permission.
