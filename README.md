@@ -10,3 +10,13 @@
     5. array demo file added array for prevent to using multiple variable making into single one. and get values from index no.
 
     6. array- key value file added.
+    
+    7. string operation file added about some function to manipulate strings.
+
+    8. user intraction to take iput data from directly user and store in variable to use it.
+
+    9. arithmetic operation file for maths calcution without let command it gonna read it as string. and after let command to finish.
+
+    10. if else condition to use to define the sides of like true and false. 
+
+    11. elif is condition to use multiple direct condition for multiple times.
