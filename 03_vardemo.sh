@@ -4,7 +4,7 @@
 
 name="naveen"
 age=23
-error = 0
+error=0
 
 echo "my name is $name and my age is $age"
 
