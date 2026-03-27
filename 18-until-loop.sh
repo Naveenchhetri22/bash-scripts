@@ -10,3 +10,12 @@ do
 	a=`expr $a - 1`
 done
 
+#or second method
+
+b=5
+
+until [[ $b -eq 1 ]]
+do
+	echo "number $b"
+	let b--
+done
