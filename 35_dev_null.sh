@@ -1,6 +1,7 @@
 #!/bin/bash
 
-read -p "Which site you want to check:  " site
+#read -p "Which site you want to check:  " site
+site=www.google.com
 echo "----------------------------------------"
 
 ping -c 1 $site &> /dev/null
